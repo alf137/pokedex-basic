@@ -1,2 +1,2 @@
-Building an Pokedex with pokeapi;
+Building a Pokedex with pokeapi;
 run with "npm run dev"
